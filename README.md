@@ -13,7 +13,7 @@
 	1. MP3
 	1. ABS
 
-[Можем обсудит че нибудь тут](https://vk.com/scrumb)
+[Можем обсудить че нибудь тут](https://vk.com/scrumb)
 
 ```javascript
 console.log('message');
